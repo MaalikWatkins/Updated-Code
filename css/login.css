@@ -1,0 +1,14 @@
+.pstyle{
+     color: #ccc;
+     text-align: center;
+     width: 60%;
+     margin: auto;
+ }
+.wrapper{
+    width: 100px;
+    height: 100px;
+    margin: auto;
+}
+.wrapper img{
+    border-radius: 50%;
+}
